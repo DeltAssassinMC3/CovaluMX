@@ -2,6 +2,7 @@
   "name": "covalu",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://deltassassinmc3.github.io/CovaluMX/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -12,7 +13,9 @@
     "react-dom": "^16.13.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "scripts": {
     "start": "react-scripts start",
