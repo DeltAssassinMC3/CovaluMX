@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CovaluMX/static/css/main.54d621b4.chunk.css",
+    "main.js": "/CovaluMX/static/js/main.de03e230.chunk.js",
+    "main.js.map": "/CovaluMX/static/js/main.de03e230.chunk.js.map",
+    "runtime-main.js": "/CovaluMX/static/js/runtime-main.e4568a0a.js",
+    "runtime-main.js.map": "/CovaluMX/static/js/runtime-main.e4568a0a.js.map",
+    "static/js/2.d253d2d1.chunk.js": "/CovaluMX/static/js/2.d253d2d1.chunk.js",
+    "static/js/2.d253d2d1.chunk.js.map": "/CovaluMX/static/js/2.d253d2d1.chunk.js.map",
+    "index.html": "/CovaluMX/index.html",
+    "precache-manifest.de431fee9849fa6262b3cb94ff67f010.js": "/CovaluMX/precache-manifest.de431fee9849fa6262b3cb94ff67f010.js",
+    "service-worker.js": "/CovaluMX/service-worker.js",
+    "static/css/main.54d621b4.chunk.css.map": "/CovaluMX/static/css/main.54d621b4.chunk.css.map",
+    "static/js/2.d253d2d1.chunk.js.LICENSE.txt": "/CovaluMX/static/js/2.d253d2d1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4568a0a.js",
+    "static/js/2.d253d2d1.chunk.js",
+    "static/css/main.54d621b4.chunk.css",
+    "static/js/main.de03e230.chunk.js"
+  ]
+}
